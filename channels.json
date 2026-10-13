@@ -1,0 +1,157 @@
+{
+"version": 1,
+"channels": [
+{
+"id": "international-matches",
+"name": "International Matches",
+"image": "https://placehold.co/600x400/10264a/ffffff.png?text=International+Matches",
+"streams": [
+{
+"name": "Stream 1",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=1"
+},
+{
+"name": "Stream 2",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=5"
+},
+{
+"name": "Stream 3",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=7"
+},
+{
+"name": "Stream 4",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=2"
+}
+]
+},
+{
+"id": "league-matches",
+"name": "League Matches",
+"image": "https://placehold.co/600x400/153d32/ffffff.png?text=League+Matches",
+"streams": [
+{
+"name": "Stream 1",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=6"
+},
+{
+"name": "Stream 2",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=1"
+},
+{
+"name": "Stream 3",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=3"
+},
+{
+"name": "Stream 4",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=4"
+},
+{
+"name": "Stream 5",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=9"
+}
+]
+},
+{
+"id": "all-matches",
+"name": "All Matches",
+"image": "https://placehold.co/600x400/512341/ffffff.png?text=All+Matches",
+"streams": [
+{
+"name": "Stream 1",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=1"
+},
+{
+"name": "Stream 2",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=2"
+},
+{
+"name": "Stream 3",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=3"
+},
+{
+"name": "Stream 4",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=4"
+},
+{
+"name": "Stream 5",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=5"
+},
+{
+"name": "Stream 6",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=6"
+},
+{
+"name": "Stream 7",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=7"
+},
+{
+"name": "Stream 8",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=8"
+},
+{
+"name": "Stream 9",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=9"
+},
+{
+"name": "Stream 10",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=10"
+},
+{
+"name": "Stream 11",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=11"
+}
+]
+},
+{
+"id": "pakistan-matches",
+"name": "Pakistan Matches",
+"image": "https://placehold.co/600x400/075e45/ffffff.png?text=Pakistan+Matches",
+"streams": [
+{
+"name": "Stream 1",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=1"
+},
+{
+"name": "Stream 2",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=2"
+},
+{
+"name": "Stream 3",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=3"
+},
+{
+"name": "Stream 4",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=4"
+},
+{
+"name": "Stream 5",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=5"
+},
+{
+"name": "Stream 6",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=6"
+},
+{
+"name": "Stream 7",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=7"
+},
+{
+"name": "Stream 8",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=8"
+},
+{
+"name": "Stream 9",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=9"
+},
+{
+"name": "Stream 10",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=10"
+},
+{
+"name": "Stream 11",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=11"
+}
+]
+}
+]
+}
