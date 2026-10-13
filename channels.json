@@ -2,14 +2,16 @@
 "version": 1,
 "channels": [
 {
-"id": "Pak vs SRI",
-"name": "Pak Vs SRI",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeosUYhVRloZpdPCtEp7691oJ4ibcCPiC5SaDxmlUulg&s=10",
-"streams": [
-{
-"name": "Stream 1",
-"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=4"
-},
+  "id": "pak-vs-sri",
+  "name": "Pak Vs SRI",
+  "image": "https://example.com/cricket-logo.jpg",
+  "streams": [
+    {
+      "name": "Watch Live",
+      "url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=4"
+    }
+  ]
+}
   {
 "id": "international-matches",
 "name": "International Matches",
