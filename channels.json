@@ -13,6 +13,17 @@
   ]
 },
   {
+  "id": "WCL 26",
+  "name": "WCL 26",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtH2XHAf5e-UhEgxgRI72KlotjLrab4FqbpbMTpW0i0A&s=10",
+  "streams": [
+    {
+      "name": "Watch Live",
+      "url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=5"
+    }
+  ]
+},
+  {
 "id": "international-matches",
 "name": "International Matches",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3hsSTQ617h57nVOpqp7Pqc96i5f0Rx1tiW7cl2VwYInPoy9X1EfSM9AR&s=10",
@@ -32,33 +43,6 @@
 {
 "name": "Stream 4",
 "url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=2"
-}
-]
-},
-{
-"id": "league-matches",
-"name": "League Matches",
-"image": "https://thumbs.dreamstime.com/b/cricket-league-logo-id-wicket-bat-ball-background-design-template-featuring-cricketer-hitting-ball-cricket-champion-trophy-logo-355591334.jpg",
-"streams": [
-{
-"name": "Stream 1",
-"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=6"
-},
-{
-"name": "Stream 2",
-"url": "https://playipllink4.blogspot.com/?m=0"
-},
-{
-"name": "Stream 3",
-"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=3"
-},
-{
-"name": "Stream 4",
-"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=4"
-},
-{
-"name": "Stream 5",
-"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=9"
 }
 ]
 },
