@@ -2,6 +2,17 @@
 "version": 1,
 "channels": [
 {
+  "id": "IndvWI",
+  "name": "IndVwi",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7s9gAHNpvwkeqyDYVPnDTuPgN8V5yGJren876gQSDbg&s=10",
+  "streams": [
+    {
+      "name": "Watch Live",
+      "url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=7"
+    }
+  ]
+},
+  {
   "id": "PakvSLvEng",
   "name": "Tri Series",
   "image": "https://www.24newshd.tv/digital_images/large/2026-09-10/sri-lanka-play-tri-series-england-pakistan-tour-1789056916-6498.png",
