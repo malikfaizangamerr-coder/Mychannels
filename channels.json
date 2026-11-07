@@ -13,13 +13,13 @@
   ]
 },  
   {
-  "id": "Aus v SA",
-  "name": "AusvSA",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9aXqeoaF-4uz3_e3WAyfvj0blASblM2xbmHvt2DTH6g&s=10",
+  "id": "T10 2026",
+  "name": "T10",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReAKTYEAKMRcqU4GxkZGTMvBoVyMZFfg0C4y1R_Gwtfn3RvUYDUdnw8rY&s=10",
   "streams": [
     {
       "name": "Watch Live",
-      "url": "https://t20link6.blogspot.com/?m=0"
+      "url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=6"
     }
   ]
 },
@@ -31,6 +31,17 @@
 {
 "name": "play",
 "url": "https://tumsetumtakdrama.blogspot.com/?src=https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8&m=0"
+}
+]
+},
+  {
+"id": "PTV Sport",
+"name": "PTVSPORTS",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2BlaJ3aw3x7ZAbDsS4ZoeJwrEmLdd3k9ZZgSFrIYmw&s.jpg",
+"streams": [
+{
+"name": "play",
+"url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=4"
 }
 ]
 },
