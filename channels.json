@@ -11,7 +11,18 @@
       "url": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=8"
     }
   ]
-},  
+},
+  {
+"id": "WBBL 26",
+"name": "WBBL",
+"image": "https://malikfaizangamerr-coder.github.io/Rizzonewchannel/#ch=1",
+"streams": [
+{
+"name": "play",
+"url": "https://tumsetumtakdrama.blogspot.com/?src=https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8&m=0"
+}
+]
+},
   {
   "id": "T10 2026",
   "name": "T10",
@@ -35,9 +46,9 @@
 ]
 },
   {
-"id": "PTV Sport",
-"name": "PTVSPORTS",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd2BlaJ3aw3x7ZAbDsS4ZoeJwrEmLdd3k9ZZgSFrIYmw&s.jpg",
+"id": "Asia Cup U19",
+"name": "AsiaCup U19",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1c-K58j28C_nnaNeXVHwkT-1k34aGR3SJ33mdBu6s7QjGG1K-LRjBC6s&s=10",
 "streams": [
 {
 "name": "play",
